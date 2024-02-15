@@ -1,0 +1,5 @@
+-items
+Pera@Amarilla@Fruta@Kilogramos@src/segundoobligatoriop2/ImagenesOblig/Pera.jpg@5.0
+Manzana@Verde@Fruta@Kilogramos@src/segundoobligatoriop2/ImagenesOblig/Manzana.jpg@15.0
+Anana@Brasilera@fruta@Unidad@src/segundoobligatoriop2/ImagenesOblig/Anana.jpg@20.0
+Papa@Blanca@Verdura@Kilogramos@src/segundoobligatoriop2/ImagenesOblig/Papa.jpg@35.0
